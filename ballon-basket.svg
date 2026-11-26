@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 500" role="img" aria-labelledby="t d">
+<title id="t">Ballon de basket orange</title><desc id="d">Illustration vectorielle originale d'un ballon de basket sur fond crème.</desc>
+<rect width="700" height="500" rx="28" fill="#f4eee4"/><circle cx="350" cy="250" r="170" fill="#e87535" stroke="#18232c" stroke-width="12"/>
+<path d="M180 250h340M350 80v340M230 130q120 120 0 240M470 130q-120 120 0 240" fill="none" stroke="#18232c" stroke-width="12"/>
+<path d="M95 420h510" stroke="#d3c4b2" stroke-width="5"/>
+</svg>

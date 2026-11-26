@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="t d">
+<title id="t">Communauté autour du basket</title><desc id="d">Illustration originale de quatre silhouettes de joueurs et joueuses réunis autour d'un ballon.</desc>
+<rect width="900" height="560" rx="28" fill="#1b2a35"/>
+<circle cx="450" cy="280" r="95" fill="#f08a45"/><path d="M360 280h180M450 190v180M390 215q60 65 0 130M510 215q-60 65 0 130" stroke="#1b2a35" stroke-width="9" fill="none"/>
+<g fill="#f4eee4"><circle cx="180" cy="170" r="48"/><path d="M115 240q65-55 130 0l25 170H90z"/><circle cx="720" cy="170" r="48"/><path d="M655 240q65-55 130 0l25 170H630z"/></g>
+<g fill="#f08a45"><circle cx="320" cy="390" r="42"/><path d="M265 445q55-42 110 0l22 90H243z"/><circle cx="580" cy="390" r="42"/><path d="M525 445q55-42 110 0l22 90H503z"/></g>
+<path d="M230 250l95 40M670 250l-95 40M365 410l40-55M535 410l-40-55" stroke="#f4eee4" stroke-width="13" stroke-linecap="round"/>
+</svg>

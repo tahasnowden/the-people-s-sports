@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">Terrain urbain de basket 3x3</title>
+<desc id="desc">Illustration originale d'un terrain de basket extérieur avec panier, ballon et silhouettes de joueurs devant un décor urbain.</desc>
+<defs>
+ <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#15202b"/><stop offset="1" stop-color="#263d4a"/></linearGradient>
+ <linearGradient id="court" x2="1" y2="1"><stop stop-color="#d95b35"/><stop offset="1" stop-color="#f29a55"/></linearGradient>
+ <pattern id="grain" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#fff" opacity=".12"/></pattern>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<path d="M0 420V250h120v170H0zm140 0V170h180v250H140zm210 0V300h130v120H350zm160 0V210h200v210H510zm230 0V280h140v140H740zm170 0V160h180v260H910zm210 0V250h140v170h-140zm170 0V190h210v230h-210z" fill="#101923"/>
+<g fill="#f2a65e" opacity=".7"><path d="M170 215h20v35h-20zm38 0h20v35h-20zm38 0h20v35h-20zm310 25h24v30h-24zm45 0h24v30h-24zm45 0h24v30h-24zm400-40h22v32h-22zm40 0h22v32h-22zm40 0h22v32h-22z"/></g>
+<path d="M0 560L1600 460v440H0z" fill="url(#court)"/>
+<path d="M0 560L1600 460" stroke="#ffe0b5" stroke-width="10" opacity=".8"/>
+<path d="M220 900V650l580-60 580 60v250" fill="none" stroke="#ffe0b5" stroke-width="8" opacity=".75"/>
+<path d="M800 590v310M520 900c0-180 125-270 280-270s280 90 280 270" fill="none" stroke="#ffe0b5" stroke-width="8" opacity=".75"/>
+<rect x="1260" y="270" width="18" height="290" fill="#dce4e7"/>
+<rect x="1190" y="260" width="160" height="105" rx="8" fill="#dce4e7" opacity=".9"/>
+<rect x="1242" y="275" width="56" height="75" fill="none" stroke="#d95b35" stroke-width="7"/>
+<path d="M1190 375h160" stroke="#f4a259" stroke-width="12"/>
+<path d="M1195 380q75 85 150 0" fill="none" stroke="#fff" stroke-width="8"/>
+<g fill="#101923"><circle cx="560" cy="510" r="34"/><path d="M530 545q35-25 70 0l38 140-45 10-30-90-25 90-45-10z"/><path d="M540 680l-40 145 32 8 55-120 20 120 35-8-25-145z"/><path d="M530 565l-85 75 18 24 105-55zm55 0l85 48-14 25-90-30z"/>
+<circle cx="980" cy="535" r="32"/><path d="M950 570q35-24 65 0l25 130-40 8-25-82-28 82-40-8z"/><path d="M955 700l-25 130 30 5 35-105 28 105 30-5-35-130z"/><path d="M955 585l-80 50 15 24 85-34zm48 0l70 58-17 20-75-42z"/></g>
+<circle cx="750" cy="690" r="48" fill="#f6a33d" stroke="#18232c" stroke-width="8"/>
+<path d="M710 665q40 25 80 50M750 642q-20 48 0 96M705 690q45-10 90 0" fill="none" stroke="#18232c" stroke-width="7"/>
+<rect width="1600" height="900" fill="url(#grain)"/>
+<path d="M80 110h420" stroke="#f6a33d" stroke-width="8"/>
+<text x="80" y="175" fill="#fff" font-family="Arial,sans-serif" font-size="46" font-weight="700" letter-spacing="5">STREET LOVE 3X3</text>
+<text x="80" y="225" fill="#d7e1e5" font-family="Arial,sans-serif" font-size="25" letter-spacing="3">LE TERRAIN EST À TOUT LE MONDE</text>
+</svg>

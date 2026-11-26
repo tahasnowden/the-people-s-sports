@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="t d">
+<title id="t">Terrain et lignes de basket 3x3</title><desc id="d">Vue stylisée d'un demi-terrain de basket avec panier et marquages.</desc>
+<rect width="900" height="560" rx="28" fill="#e9e2d7"/><rect x="80" y="60" width="740" height="440" rx="18" fill="#d96d3e"/>
+<path d="M80 280h740M450 60v440M250 60v440M650 60v440" stroke="#fff0dc" stroke-width="8" opacity=".9"/>
+<circle cx="450" cy="280" r="110" fill="none" stroke="#fff0dc" stroke-width="8"/>
+<path d="M80 145h140v270H80M820 145H680v270h140" fill="none" stroke="#fff0dc" stroke-width="8"/>
+<rect x="110" y="235" width="14" height="90" fill="#1b2a35"/><path d="M124 280h35" stroke="#1b2a35" stroke-width="10"/>
+<circle cx="450" cy="280" r="26" fill="#f7b45e" stroke="#1b2a35" stroke-width="6"/>
+</svg>
